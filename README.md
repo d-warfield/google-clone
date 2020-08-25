@@ -1,3 +1,7 @@
+#Google Clone using Firebase
+
+![Alt Text](https://media.giphy.com/media/Ze3rd2i8uN3cffFaoU/giphy.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
